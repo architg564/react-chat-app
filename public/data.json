@@ -1,0 +1,7 @@
+{
+  "conversations": [
+    { "id": 1, "contactName": "John Doe", "lastMessage": "Hello there!" },
+    { "id": 2, "contactName": "Jane Smith", "lastMessage": "How are you?" },
+    { "id": 3, "contactName": "Alice Johnson", "lastMessage": "Nice to meet you." }
+  ]
+}
